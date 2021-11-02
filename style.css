@@ -1,0 +1,58 @@
+#card{
+    background-image: url("http://cdn.shopify.com/s/files/1/0153/0623/products/Marble_White-Gold_556_Wall_Mural_by_KEK_Amsterdam.jpg?v=1571712201");
+}
+
+.house{
+    width: 600px;
+    padding-left: 250px;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+}
+
+#title{
+    font-family: 'Rancho', cursive;
+    font-size: 30px;
+    line-height: 0px;
+    color: darkgoldenrod;
+}
+
+#hw{
+    font-family: 'Cookie', cursive;
+    font-size: 100px;
+    line-height: 0px;
+    color: darkgoldenrod;
+}
+
+.host{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 25px;
+    line-height: 5px;
+    color: darkgoldenrod;
+}
+
+#details{
+    background-image: url("https://cdn.shopify.com/s/files/1/0020/6123/8339/products/3939982049347.jpg?v=1564173182")
+}
+
+#message{
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-bottom: 100px;
+    font-family: 'Rancho', cursive;
+    font-size: 30px;
+}
+
+#message2{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+
+#note{
+    text-align: center;
+    font-family: 'Rancho', cursive;
+    font-size: 30px;
+}
+
+
