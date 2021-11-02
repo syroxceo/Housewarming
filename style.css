@@ -49,12 +49,6 @@
     font-family: 'Dancing Script', cursive;
 }
 
-#note{
-    text-align: center;
-    font-family: 'Rancho', cursive;
-    font-size: 30px;
-}
-
 #trans{
     width: 700px;
     padding-right: 10px;
@@ -67,5 +61,5 @@
 }
 
 mark {
-  background-color: aqua;
+  background-color: yellow;
 }
