@@ -32,7 +32,7 @@
 }
 
 #details{
-    background-image: url("https://cdn.shopify.com/s/files/1/0020/6123/8339/products/3939982049347.jpg?v=1564173182")
+    background-image: url("https://media.istockphoto.com/vectors/modern-simple-geometric-vector-seamless-pattern-with-gold-flowers-vector-id1150985422")
 }
 
 #message{
@@ -55,4 +55,13 @@
     font-size: 30px;
 }
 
+#gif{
+    background-image: url("https://www.wallpaperboulevard.com/Images/product/white-gold-budding-tree-branch-silhouet-tuax-l.jpg");
+        text-align: center;
+    font-family: 'Rancho', cursive;
+    font-size: 50px;
+}
 
+#trans{
+    width: 700px;
+}
