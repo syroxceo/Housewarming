@@ -36,8 +36,8 @@
 }
 
 #message{
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 450px;
+    padding-right: 300px;
     padding-bottom: 100px;
     font-family: 'Rancho', cursive;
     font-size: 30px;
@@ -51,7 +51,9 @@
 
 #trans{
     width: 700px;
-    padding-right: 10px;
+    border-style: inset;
+    border-color: darkgoldenrod;
+    border-width: 10px;
 }
 
 #the{
@@ -62,4 +64,9 @@
 
 mark {
   background-color: yellow;
+}
+
+#gif{
+    background-image: url("https://www.teahub.io/photos/full/28-289635_gold-wallpaper-pattern.jpg");
+        text-align: center;
 }
